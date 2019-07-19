@@ -546,3 +546,9 @@ Shell for 循环有两种使用形式，下面我们逐一讲解。
         statements
     done
     ```
+
+参考：
+
+- https://www.learnshell.org/
+- https://www.shellscript.sh/
+- http://linuxcommand.org/lc3_learning_the_shell.php
