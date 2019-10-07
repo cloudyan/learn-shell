@@ -555,3 +555,4 @@ Shell for 循环有两种使用形式，下面我们逐一讲解。
 - [shell-scripting-tutorial](https://github.com/techtutorials/shell-scripting-tutorial)
 - [learn-shell](https://github.com/yifengyou/learn-shell)
 - [shell-tutorial](https://github.com/jaywcjlove/shell-tutorial)
+- [linux-command](https://wangchujiang.com/linux-command/)
