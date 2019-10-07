@@ -552,3 +552,6 @@ Shell for 循环有两种使用形式，下面我们逐一讲解。
 - https://www.learnshell.org/
 - https://www.shellscript.sh/
 - http://linuxcommand.org/lc3_learning_the_shell.php
+- [shell-scripting-tutorial](https://github.com/techtutorials/shell-scripting-tutorial)
+- [learn-shell](https://github.com/yifengyou/learn-shell)
+- [shell-tutorial](https://github.com/jaywcjlove/shell-tutorial)
